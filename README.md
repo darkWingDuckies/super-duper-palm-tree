@@ -26,3 +26,14 @@ nat vid review - may need a another upload to g drive
 [ ] divebomb
 [ ] divebomb
 [ ] divebomb
+
+
+5/27/20
+
+- [ ] morning smz
+- [ ] cold shw
+- [ ] stretch
+- [ ] backdate + consol
+- [ ] clean
+- [ ] sha
+- [ ] nat whit vid dl retry
