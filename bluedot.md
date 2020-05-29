@@ -6,9 +6,6 @@ As the pandemic has rolled around the planet, innovative applications of AI have
 
 In China, Alibaba announced an AI algorithm that it says can diagnose suspected cases within 20 seconds (almost 45 times faster than human detection) with 96 percent accuracy. Autonomous vehicles were quickly put to use in scenarios that would have been too dangerous for humans. Robots in China’s Hubei and Guangdong provinces delivered food, medicine, and goods to patients in hospitals or quarantined families, many of whom had lost household breadwinners to the virus. In California, computer scientists are working on systems that can remotely monitor the health of the elderly in their homes and provide alerts if they fall ill with Covid-19 or other conditions.
 
-Sign Up Today
-Sign Up for WIRED's Longreads Newsletter
-Sign up for our Longreads newsletter for the best features, ideas, and investigations from WIRED.
 These snapshots of AI in action against Covid-19 provide a glimpse of what will be possible in the various aspects of health care in the future. We have a long way to go. Truth be told, AI has not had a particularly successful four months in the battle of the pandemic. I would give it a B-minus at best. We have seen how vulnerable our health care systems are: insufficient and imprecise alert responses, inadequately distributed medical supplies, overloaded and fatigued medical staff, not enough hospital beds, and no timely treatments or cures.
 
 Health care systems around the world—even the most advanced ones—are some of the most complicated, hierarchical, and static institutions in society. This time around, AI has been able to help in only pockets of excellence. The reasons for this are simple: Before Covid-19 struck, we did not understand the importance of these areas and act accordingly, and, crucially as far as AI is concerned, we did not have the data to deliver the solutions.
