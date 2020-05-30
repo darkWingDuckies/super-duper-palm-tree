@@ -37,3 +37,7 @@ nat vid review - may need a another upload to g drive
 - [ ] clean
 - [ ] sha
 - [ ] nat whit vid dl retry
+
+# 5/30/20
+- ex
+Blinding Lights	3:20	The Weeknd	After Hours	R&B/Soul	0	13
