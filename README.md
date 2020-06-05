@@ -41,3 +41,7 @@ nat vid review - may need a another upload to g drive
 # 5/30/20
 - ex
 Blinding Lights	3:20	The Weeknd	After Hours	R&B/Soul	0	13
+
+# 6/4/20
+hack repos
+defi reeps
